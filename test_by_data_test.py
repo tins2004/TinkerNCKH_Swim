@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-# import tflite_runtime.interpreter as tflite
+import tflite_runtime.interpreter as tflite
 import os
 
 data_path = './data/datatest_0to20/'
